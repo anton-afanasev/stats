@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Overview\nCourse for DSBA students of the HSE, that introduces basic concepts of probability theory and statistics. The topics include the definitions of probability, Central Limit Theorem, distributions of random variables, estimators and their applications. The course contains a variety of practical exercises with the solutions and essential theory.\n\n\n\nMaterials\n\n\n\n\nGeneral course information, CRISP-DM methodology\n📜\n\n\nIntroduction to Python\n🤖\n\n\nIntroduction to Python: EDA 101\n🤖\n\n\nSupervised learning/unsupervised learning. Classification/regression problems. Accuracy metrics (precision, recall, ROC-AUC scores). Concept of loss functions, overfitting/ underfitting\n📜\n\n\nIntroduction to ML with Python\n🤖\n\n\nLinear regression. Logistic regression. Support vector machine\n📜\n\n\nLinear Models: Linear Regression\n🤖\n\n\nLinear Models: AUROC\n🤖\n\n\nDecision trees. Random forests. Boosting\n📜\n\n\nDecision Tree Classification Algorithm\n🤖\n\n\nRandom Forest\n🤖\n\n\nGradient Boosting over Decision Trees (GBDT)\n🤖\n\n\nDimensionality reduction: linear, non-linear methods\n📜\n\n\nDimensionality reduction: PCA, t-SNE, UMAP\n🤖\n\n\nClustering methods\n📜\n\n\nClustering: k-means, DBScan, Community detection\n🤖\n\n\nBasic neural networks\n📜\n\n\nBasics of Neural Networks\n🤖\n\n\nScalable algorithms\n📜\n\n\nSimple Annotated MNIST Exercise\n🤖\n\n\nQuick introduction to hyperparameter tuning with Optuna\n🤖\n\n\nFine-tuning Large Language Model on the song lyrics\n🤖\n\n\n\n\nNo matching items\n\n\n\n\n\nInstructor: Anton Afanasev, PhD"
+  }
+]
