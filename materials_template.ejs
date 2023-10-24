@@ -1,0 +1,26 @@
+```{=html}
+<table class="quarto-listing-table table">
+  <tbody class="list">
+  <% 
+     // Sort items by the order property
+     items.sort((a, b) => a.order - b.order);
+     for (const item of items) { 
+  %>
+      <tr data-index="<%= item.order %>">
+          <td>
+              <span class="listing-title"><%= item.title %></span>
+          </td>
+          <td>
+              <% if(item.file.endsWith('.pdf')) { %>
+                  <span class="listing-file"><a href="<%= item.file %>">📜</a></span>
+              <% } else if(item.file.endsWith('.ipynb')) { %>
+                  <span class="listing-file"><a href="<%= item.file.replace('.ipynb', '.html') %>">🤖</a></span>
+              <% } else { %>
+                  <span class="listing-file"><%= item.file %></span>
+              <% } %>
+          </td>
+      </tr>
+  <% } %>
+  </tbody>
+</table>
+```
