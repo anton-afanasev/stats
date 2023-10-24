@@ -1,88 +1,28 @@
-- title: General course information, CRISP-DM methodology
-  type: lecture
-  file: lectures/1.pdf
+- title: Combinatorics. Basics of probability
+  type: seminar
+  file: seminars/Seminar_1_2023_Pres.pdf
   order: 1
-- title: Supervised learning/unsupervised learning. Classification/regression problems. Accuracy metrics (precision, recall, ROC-AUC scores). Concept of loss functions, overfitting/ underfitting
-  type: lecture
-  file: lectures/2.pdf
+- title: Geometric probability. Conditional probability
+  type: seminar
+  file: seminars/Seminar_2_2023_Pres.pdf
   order: 2
-- title: Linear regression. Logistic regression. Support vector machine
-  type: lecture
-  file: lectures/3.pdf
+- title: Bayes’ theorem. Bernoulli scheme
+  type: seminar
+  file: seminars/Seminar_3_2023_Pres.pdf
   order: 3
-- title: Decision trees. Random forests. Boosting
-  type: lecture
-  file: lectures/4.pdf
+- title: Random variables. Expected value and variance
+  type: seminar
+  file: seminars/Seminar_4_2023_Pres.pdf
   order: 4
-- title: "Dimensionality reduction: linear, non-linear methods"
-  type: lecture
-  file: lectures/5.pdf
+- title: Joint distributions. Covariance and correlation
+  type: seminar
+  file: seminars/Seminar_5_2023_Pres.pdf
   order: 5
-- title: Clustering methods
-  type: lecture
-  file: lectures/6.pdf
+- title: Conditional expectation. Continuous distributions
+  type: seminar
+  file: seminars/Seminar_6_2023_Pres.pdf
   order: 6
-- title: Basic neural networks
-  type: lecture
-  file: lectures/7.pdf
+- title: Quantile function. Normal distribution
+  type: seminar
+  file: seminars/Seminar_7_2023_Pres.pdf
   order: 7
-- title: Scalable algorithms
-  type: lecture
-  file: lectures/8.pdf
-  order: 8
-- title: Introduction to Python
-  type: seminar
-  file: seminars/seminar01/01-programming-basics.ipynb
-  order: 1.1
-- title: "Introduction to Python: EDA 101"
-  type: seminar
-  file: seminars/seminar01/02b-eda.ipynb
-  order: 1.2
-- title: Introduction to ML with Python
-  type: seminar
-  file: seminars/seminar02/02-ml-basics.ipynb
-  order: 2.1
-- title: "Linear Models: Linear Regression"
-  type: seminar
-  file: seminars/seminar03/03-linear-regression.ipynb
-  order: 3.1
-- title: "Linear Models: AUROC"
-  type: seminar
-  file: seminars/seminar03/03-metrics-auroc.ipynb
-  order: 3.2
-- title: Decision Tree Classification Algorithm
-  type: seminar
-  file: seminars/seminar04/04-decision-tree.ipynb
-  order: 4.1
-- title: Random Forest
-  type: seminar
-  file: seminars/seminar04/04-random-forest.ipynb
-  order: 4.2
-- title: Gradient Boosting over Decision Trees (GBDT)
-  type: seminar
-  file: seminars/seminar04/05-gbdt.ipynb
-  order: 4.3
-- title: "Dimensionality reduction: PCA, t-SNE, UMAP"
-  type: seminar
-  file: seminars/seminar05/Dimensionality_reduction.ipynb
-  order: 5.1
-- title: "Clustering: k-means, DBScan, Community detection"
-  type: seminar
-  file: seminars/seminar06/Clustering.ipynb
-  order: 6.1
-- title: Basics of Neural Networks
-  type: seminar
-  file: seminars/seminar07/06_nn_basics.ipynb
-  order: 7.1
-- title: Simple Annotated MNIST Exercise
-  type: seminar
-  file: seminars/seminar08/Simple_annotated_MNIST_exercise_en.ipynb
-  order: 8.1
-- title: Quick introduction to hyperparameter tuning with Optuna
-  type: seminar
-  file: seminars/seminar08/Optuna_introduction.ipynb
-  order: 8.2
-- title: Fine-tuning Large Language Model on the song lyrics
-  type: seminar
-  file: seminars/seminar08/Large_model_training_practice.ipynb
-  order: 8.3
