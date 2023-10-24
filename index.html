@@ -72,7 +72,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-type','listing-file','listing-order',{ data: ['index'] },{ data: ['categories'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-type","listing-file","listing-order"],
     };
 
@@ -185,11 +186,74 @@ ul.task-list li input[type="checkbox"] {
 <td><span class="listing-title">Sample variance. Sample proportion. Point estimators</span></td>
 <td><span class="listing-file"><a href="seminars/Seminar_15_16_2022_Pres.pdf">📜</a></span></td>
 </tr>
+<tr class="odd" data-index="13">
+<td><span class="listing-title">Method of moments estimator. Ordinary least squares. Maximum likelihood estimator</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_17_18_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="14">
+<td><span class="listing-title">Confidence intervals for mean and variance. Accuracy of estimation</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_19_20_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="15">
+<td><span class="listing-title">Confidence intervals for proportions, difference of means in paired samples, difference of means in independent samples (variances are known)</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_21_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="16">
+<td><span class="listing-title">Confidence intervals for difference of means in independent samples (variances are unknown), ratio of variances, correlation coefficient</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_22_23_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="17">
+<td><span class="listing-title">Module II review</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_24_25_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="18">
+<td><span class="listing-title">Hypotheses testing. Type I and II errors. Power of the test</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_26_27_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="19">
+<td><span class="listing-title">Hypotheses testing with z-scores and t-scores</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_28_29_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="20">
+<td><span class="listing-title">Hypotheses testing with chi2-scores and F-scores</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_30_31_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="21">
+<td><span class="listing-title">Hypotheses on correlation. Spearman's rank correlation. chi2-tests</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_32_33_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="22">
+<td><span class="listing-title">One-way ANOVA. Two-way ANOVA</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_34_35_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="23">
+<td><span class="listing-title">ANOVA confidence intervals. Family-wise error rate</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_36_37_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="24">
+<td><span class="listing-title">Simple linear regression. Interval estimation in normal regression</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_38_39_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="25">
+<td><span class="listing-title">ANOVA in simple linear regression. Coefficient of determination</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_40_41_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="even" data-index="26">
+<td><span class="listing-title">Multiple variables linear regression. ANOVA in multiple variables linear regression. Adjusted coefficient of determination</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_42_43_2022_Pres.pdf">📜</a></span></td>
+</tr>
+<tr class="odd" data-index="27">
+<td><span class="listing-title">Module III review</span></td>
+<td><span class="listing-file"><a href="seminars/Seminar_44_45_2022_Pres.pdf">📜</a></span></td>
+</tr>
 </tbody>
 </table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="materials-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
