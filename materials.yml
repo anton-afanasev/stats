@@ -26,3 +26,23 @@
   type: seminar
   file: seminars/Seminar_7_2023_Pres.pdf
   order: 7
+- title: Module I review
+  type: seminar
+  file: seminars/Seminar_8_2022_Pres.pdf
+  order: 8
+- title: Joint continuous distributions. Random variables transformations
+  type: seminar
+  file: seminars/Seminar_9_10_2022_Pres.pdf
+  order: 9
+- title: Poisson process. Convolution and marginalization. Limit theorems
+  type: seminar
+  file: seminars/Seminar_11_12_2022_Pres.pdf
+  order: 10
+- title: Auxiliary distributions. Law of large numbers. Sample mean
+  type: seminar
+  file: seminars/Seminar_13_14_2022_Pres.pdf
+  order: 11
+- title: Sample variance. Sample proportion. Point estimators
+  type: seminar
+  file: seminars/Seminar_15_16_2022_Pres.pdf
+  order: 12
