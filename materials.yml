@@ -1,30 +1,37 @@
 - title: Combinatorics. Basics of probability
   type: seminar
   file: seminars/Seminar_1_2023_Pres.pdf
+  key: seminars/Seminar_1_2023_Problems.pdf
   order: 1
 - title: Geometric probability. Conditional probability
   type: seminar
   file: seminars/Seminar_2_2023_Pres.pdf
+  key: seminars/Seminar_2_2023_Problems.pdf
   order: 2
 - title: Bayes’ theorem. Bernoulli scheme
   type: seminar
   file: seminars/Seminar_3_2023_Pres.pdf
+  key: seminars/Seminar_3_2023_Problems.pdf
   order: 3
 - title: Random variables. Expected value and variance
   type: seminar
   file: seminars/Seminar_4_2023_Pres.pdf
+  key: seminars/Seminar_4_2023_Problems.pdf
   order: 4
 - title: Joint distributions. Covariance and correlation
   type: seminar
   file: seminars/Seminar_5_2023_Pres.pdf
+  key: seminars/Seminar_5_2023_Problems.pdf
   order: 5
 - title: Conditional expectation. Continuous distributions
   type: seminar
   file: seminars/Seminar_6_2023_Pres.pdf
+  key: seminars/Seminar_6_2023_Problems.pdf
   order: 6
 - title: Quantile function. Normal distribution
   type: seminar
   file: seminars/Seminar_7_2023_Pres.pdf
+  key: seminars/Seminar_7_2023_Problems.pdf
   order: 7
 - title: Module I review
   type: seminar

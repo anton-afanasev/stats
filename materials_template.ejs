@@ -19,6 +19,13 @@
                   <span class="listing-file"><%= item.file %></span>
               <% } %>
           </td>
+          <td>
+              <% if(item.key) { %>
+                  <span class="listing-file"><a href="<%= item.key %>">🗝️</a></span>
+              <% } else { %>
+                  <span class="listing-file"></span>
+              <% } %>
+          </td>
       </tr>
   <% } %>
   </tbody>
