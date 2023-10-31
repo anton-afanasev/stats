@@ -33,86 +33,83 @@
   file: seminars/Seminar_7_2023_Pres.pdf
   key: seminars/Seminar_7_2023_Problems.pdf
   order: 7
-- title: Module I review
-  type: seminar
-  file: seminars/Seminar_8_2022_Pres.pdf
-  order: 8
 - title: Joint continuous distributions. Random variables transformations
   type: seminar
-  file: seminars/Seminar_9_10_2022_Pres.pdf
-  order: 9
+  file: seminars/Seminar_8_9_2023_Pres.pdf
+  key: seminars/Seminar_8_9_2023_Problems.pdf
+  order: 8
 - title: Poisson process. Convolution and marginalization. Limit theorems
   type: seminar
   file: seminars/Seminar_11_12_2022_Pres.pdf
-  order: 10
+  order: 9
 - title: Auxiliary distributions. Law of large numbers. Sample mean
   type: seminar
   file: seminars/Seminar_13_14_2022_Pres.pdf
-  order: 11
+  order: 10
 - title: Sample variance. Sample proportion. Point estimators
   type: seminar
   file: seminars/Seminar_15_16_2022_Pres.pdf
-  order: 12
+  order: 11
 - title: Method of moments estimator. Ordinary least squares. Maximum likelihood estimator
   type: seminar
   file: seminars/Seminar_17_18_2022_Pres.pdf
-  order: 13
+  order: 12
 - title: Confidence intervals for mean and variance. Accuracy of estimation
   type: seminar
   file: seminars/Seminar_19_20_2022_Pres.pdf
-  order: 14
+  order: 13
 - title: Confidence intervals for proportions, difference of means in paired samples, 
     difference of means in independent samples (variances are known)
   type: seminar
   file: seminars/Seminar_21_2022_Pres.pdf
-  order: 15
+  order: 14
 - title: Confidence intervals for difference of means in independent samples (variances are unknown), 
     ratio of variances, correlation coefficient
   type: seminar
   file: seminars/Seminar_22_23_2022_Pres.pdf
-  order: 16
+  order: 15
 - title: Module II review
   type: seminar
   file: seminars/Seminar_24_25_2022_Pres.pdf
-  order: 17
+  order: 16
 - title: Hypotheses testing. Type I and II errors. Power of the test
   type: seminar
   file: seminars/Seminar_26_27_2022_Pres.pdf
-  order: 18
+  order: 17
 - title: Hypotheses testing with z-scores and t-scores
   type: seminar
   file: seminars/Seminar_28_29_2022_Pres.pdf
-  order: 19
+  order: 18
 - title: Hypotheses testing with chi2-scores and F-scores
   type: seminar
   file: seminars/Seminar_30_31_2022_Pres.pdf
-  order: 20
+  order: 19
 - title: Hypotheses on correlation. Spearman's rank correlation. chi2-tests
   type: seminar
   file: seminars/Seminar_32_33_2022_Pres.pdf
-  order: 21
+  order: 20
 - title: One-way ANOVA. Two-way ANOVA
   type: seminar
   file: seminars/Seminar_34_35_2022_Pres.pdf
-  order: 22
+  order: 21
 - title: ANOVA confidence intervals. Family-wise error rate
   type: seminar
   file: seminars/Seminar_36_37_2022_Pres.pdf
-  order: 23
+  order: 22
 - title: Simple linear regression. Interval estimation in normal regression
   type: seminar
   file: seminars/Seminar_38_39_2022_Pres.pdf
-  order: 24
+  order: 23
 - title: ANOVA in simple linear regression. Coefficient of determination
   type: seminar
   file: seminars/Seminar_40_41_2022_Pres.pdf
-  order: 25
+  order: 24
 - title: Multiple variables linear regression. ANOVA in multiple variables linear regression. 
     Adjusted coefficient of determination
   type: seminar
   file: seminars/Seminar_42_43_2022_Pres.pdf
-  order: 26
+  order: 25
 - title: Module III review
   type: seminar
   file: seminars/Seminar_44_45_2022_Pres.pdf
-  order: 27
+  order: 26
