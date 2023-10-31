@@ -11,3 +11,12 @@
   border-radius: 50%;
   max-width: 300px;
 }
+
+// Highlight table row when hover
+.quarto-listing-table.table {
+  tr {
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.05); // Light gray background on hover
+    }
+  }
+}
