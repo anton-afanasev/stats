@@ -50,7 +50,8 @@
   order: 10
 - title: Sample variance. Sample proportion. Point estimators
   type: seminar
-  file: seminars/Seminar_15_16_2022_Pres.pdf
+  file: seminars/Seminar_14_15_2023_Pres.pdf
+  key: keys/Seminar_14_15_2023_Problems.pdf
   order: 11
 - title: Method of moments estimator. Ordinary least squares. Maximum likelihood estimator
   type: seminar
