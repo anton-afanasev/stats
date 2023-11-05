@@ -45,7 +45,8 @@
   order: 9
 - title: Auxiliary distributions. Law of large numbers. Sample mean
   type: seminar
-  file: seminars/Seminar_13_14_2022_Pres.pdf
+  file: seminars/Seminar_12_13_2023_Pres.pdf
+  key: keys/Seminar_12_13_2023_Problems.pdf
   order: 10
 - title: Sample variance. Sample proportion. Point estimators
   type: seminar
