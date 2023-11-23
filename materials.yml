@@ -55,7 +55,8 @@
   order: 11
 - title: Method of moments estimator. Ordinary least squares. Maximum likelihood estimator
   type: seminar
-  file: seminars/Seminar_17_18_2022_Pres.pdf
+  file: seminars/Seminar_16_17_2023_Pres.pdf
+  key: keys/Seminar_16_17_2023_Problems.pdf
   order: 12
 - title: Confidence intervals for mean and variance. Accuracy of estimation
   type: seminar
