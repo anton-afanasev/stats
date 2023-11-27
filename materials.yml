@@ -60,7 +60,8 @@
   order: 12
 - title: Confidence intervals for mean and variance. Accuracy of estimation
   type: seminar
-  file: seminars/Seminar_19_20_2022_Pres.pdf
+  file: seminars/Seminar_18_19_2023_Pres.pdf
+  key: keys/Seminar_18_19_2023_Problems.pdf
   order: 13
 - title: Confidence intervals for proportions, difference of means in paired samples, 
     difference of means in independent samples (variances are known)
