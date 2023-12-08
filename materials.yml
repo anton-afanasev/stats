@@ -63,13 +63,12 @@
   file: seminars/Seminar_18_19_2023_Pres.pdf
   key: keys/Seminar_18_19_2023_Problems.pdf
   order: 13
-- title: Confidence intervals for proportions, difference of means in paired samples, 
-    difference of means in independent samples (variances are known)
+- title: Confidence intervals for proportions, difference of means and ratio of variances
   type: seminar
-  file: seminars/Seminar_21_2022_Pres.pdf
+  file: seminars/Seminar_20_21_2023_Pres.pdf
+  key: keys/Seminar_20_21_2023_Problems.pdf
   order: 14
-- title: Confidence intervals for difference of means in independent samples (variances are unknown), 
-    ratio of variances, correlation coefficient
+- title: Confidence interval for correlation coefficient
   type: seminar
   file: seminars/Seminar_22_23_2022_Pres.pdf
   order: 15
