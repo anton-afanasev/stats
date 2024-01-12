@@ -72,6 +72,7 @@
     Confidence interval for correlation coefficient
   type: seminar
   file: seminars/Seminar_22_23_2023_Pres.pdf
+  key: keys/Seminar_22_23_2023_Problems.pdf
   order: 15
 - title: Hypotheses testing. Type I and II errors. Power of the test
   type: seminar
