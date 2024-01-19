@@ -86,7 +86,7 @@
   type: seminar
   file: seminars/Seminar_30_31_2022_Pres.pdf
   order: 18
-- title: Hypotheses on correlation. Spearman's rank correlation. chi2-tests
+- title: Hypotheses on correlation. chi2-tests
   type: seminar
   file: seminars/Seminar_32_33_2022_Pres.pdf
   order: 19
